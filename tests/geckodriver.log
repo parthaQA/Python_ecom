@@ -1,0 +1,340 @@
+1629198450790	geckodriver	INFO	Listening on 127.0.0.1:50295
+1629198453815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofileJ6OPOO"
+1629198457616	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofileJ6OPOO\\search.json.mozlz4", (void 0)))
+1629198469550	Marionette	INFO	Listening on port 50303
+1629198469982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 334: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 334: unreachable code after return statement
+1629198496328	Marionette	INFO	Stopped listening on port 50303
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629198498309	geckodriver	INFO	Listening on 127.0.0.1:56575
+1629198501349	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofileCn2ebZ"
+1629198503113	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofileCn2ebZ\\search.json.mozlz4", (void 0)))
+1629198507033	Marionette	INFO	Listening on port 58655
+1629198507453	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 334: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 334: unreachable code after return statement
+1629198527596	Marionette	INFO	Stopped listening on port 58655
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629198556404	geckodriver	INFO	Listening on 127.0.0.1:49752
+1629198559454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofileOJmcPz"
+1629198560756	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofileOJmcPz\\search.json.mozlz4", (void 0)))
+1629198564958	Marionette	INFO	Listening on port 49760
+1629198565516	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 334: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 334: unreachable code after return statement
+1629198593722	Marionette	INFO	Stopped listening on port 49760
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629198595273	geckodriver	INFO	Listening on 127.0.0.1:53316
+1629198598329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofilecrE3u3"
+1629198598865	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofilecrE3u3\\search.json.mozlz4", (void 0)))
+1629198602706	Marionette	INFO	Listening on port 53324
+1629198603169	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 334: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 334: unreachable code after return statement
+1629198627718	Marionette	INFO	Stopped listening on port 53324
+1629269584321	geckodriver	INFO	Listening on 127.0.0.1:51558
+1629269587416	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofile9rKcey"
+1629269593290	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofile9rKcey\\search.json.mozlz4", (void 0)))
+1629269612083	Marionette	INFO	Listening on port 51566
+1629269612632	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 334: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 334: unreachable code after return statement
+1629269635455	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1629269643243	Marionette	INFO	Stopped listening on port 51566
+[Parent 3528, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629269646337	geckodriver	INFO	Listening on 127.0.0.1:65465
+1629269649399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofileIK50fn"
+1629269651031	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofileIK50fn\\search.json.mozlz4", (void 0)))
+1629269656139	Marionette	INFO	Listening on port 65473
+[Child 22188, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1629269656558	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 334: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 334: unreachable code after return statement
+1629269682487	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1629269686258	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1629269693563	Marionette	INFO	Stopped listening on port 65473
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629269695899	geckodriver	INFO	Listening on 127.0.0.1:51028
+1629269698954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofile6fsvA9"
+1629269700193	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofile6fsvA9\\search.json.mozlz4", (void 0)))
+1629269705269	Marionette	INFO	Listening on port 51036
+1629269706000	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 334: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 334: unreachable code after return statement
+1629269731982	Marionette	INFO	Stopped listening on port 51036
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629270124199	geckodriver	INFO	Listening on 127.0.0.1:64242
+1629270127252	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofileCMxasm"
+1629270127788	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofileCMxasm\\search.json.mozlz4", (void 0)))
+1629270132322	Marionette	INFO	Listening on port 64250
+1629270132687	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 334: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 334: unreachable code after return statement
+1629270167895	Marionette	INFO	Stopped listening on port 64250
+[Parent 14852, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1629270170046	geckodriver	INFO	Listening on 127.0.0.1:57958
+1629270173130	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofileT2NPW1"
+1629270173850	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofileT2NPW1\\search.json.mozlz4", (void 0)))
+1629270178599	Marionette	INFO	Listening on port 57966
+1629270179072	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 334: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 334: unreachable code after return statement
+1629270204953	Marionette	INFO	Stopped listening on port 57966
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629270246270	geckodriver	INFO	Listening on 127.0.0.1:53993
+1629270249355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofile6lyy96"
+1629270250081	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofile6lyy96\\search.json.mozlz4", (void 0)))
+1629270254507	Marionette	INFO	Listening on port 51066
+1629270254771	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 334: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 334: unreachable code after return statement
+1629270289990	Marionette	INFO	Stopped listening on port 51066
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629270292581	geckodriver	INFO	Listening on 127.0.0.1:49160
+1629270295676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofileemF0eT"
+1629270296339	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofileemF0eT\\search.json.mozlz4", (void 0)))
+1629270300564	Marionette	INFO	Listening on port 49168
+1629270301071	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 334: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 334: unreachable code after return statement
+1629270327084	Marionette	INFO	Stopped listening on port 49168
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629274518197	geckodriver	INFO	Listening on 127.0.0.1:51556
+1629274521234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofileX64eRp"
+1629274526515	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofileX64eRp\\search.json.mozlz4", (void 0)))
+1629274549119	Marionette	INFO	Listening on port 51564
+1629274549493	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 334: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 334: unreachable code after return statement
+1629274577195	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1629274579189	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1629274586024	Marionette	INFO	Stopped listening on port 51564
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x58000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x58000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x58000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x58000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+1629274645989	geckodriver	INFO	Listening on 127.0.0.1:50171
+1629274649037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofileEYFgHs"
+1629274650303	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofileEYFgHs\\search.json.mozlz4", (void 0)))
+1629274655137	Marionette	INFO	Listening on port 50179
+1629274656071	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 334: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 334: unreachable code after return statement
+1629274684585	Marionette	INFO	Stopped listening on port 50179
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629274743587	geckodriver	INFO	Listening on 127.0.0.1:60812
+1629274746669	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofileUJkTPS"
+1629274747955	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofileUJkTPS\\search.json.mozlz4", (void 0)))
+1629274752679	Marionette	INFO	Listening on port 60820
+1629274753109	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 335: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 335: unreachable code after return statement
+1629274781442	Marionette	INFO	Stopped listening on port 60820
+[Parent 15180, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+1629274946111	geckodriver	INFO	Listening on 127.0.0.1:57525
+1629274949193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofilesAuIzJ"
+1629274950202	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofilesAuIzJ\\search.json.mozlz4", (void 0)))
+1629274955132	Marionette	INFO	Listening on port 57533
+1629274955595	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 362: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 362: unreachable code after return statement
+1629274990635	Marionette	INFO	Stopped listening on port 57533
+1629353647007	geckodriver	INFO	Listening on 127.0.0.1:51697
+1629353649920	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofile5P9AcD"
+1629353656383	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofile5P9AcD\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629353681631	Marionette	INFO	Listening on port 51705
+1629353682370	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 362: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 362: unreachable code after return statement
+1629353713060	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1629353718763	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1629353723700	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1629353731712	Marionette	INFO	Stopped listening on port 51705
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x58000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x58000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x58000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x58000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+1629353737246	geckodriver	INFO	Listening on 127.0.0.1:54834
+1629353740241	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofileY6CPF8"
+1629353741899	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofileY6CPF8\\search.json.mozlz4", (void 0)))
+1629353746615	Marionette	INFO	Listening on port 54842
+1629353747440	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 362: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 362: unreachable code after return statement
+1629353767610	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1629353774085	Marionette	INFO	Stopped listening on port 54842
+[Child 8876, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629353848202	geckodriver	INFO	Listening on 127.0.0.1:55737
+1629353851209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofileiZbjdv"
+1629353852361	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofileiZbjdv\\search.json.mozlz4", (void 0)))
+1629353857103	Marionette	INFO	Listening on port 55745
+1629353858999	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 362: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 362: unreachable code after return statement
+1629353894462	Marionette	INFO	Stopped listening on port 55745
+[Child 10076, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000C,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 15976, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1629353896516	geckodriver	INFO	Listening on 127.0.0.1:55911
+1629353899549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofile20GYgH"
+1629353900281	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofile20GYgH\\search.json.mozlz4", (void 0)))
+1629353905400	Marionette	INFO	Listening on port 55919
+1629353905937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 362: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 362: unreachable code after return statement
+1629353932526	Marionette	INFO	Stopped listening on port 55919
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629358123930	geckodriver	INFO	Listening on 127.0.0.1:52423
+1629358126954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofileGbr47K"
+1629358134241	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofileGbr47K\\search.json.mozlz4", (void 0)))
+1629358154732	Marionette	INFO	Listening on port 52431
+1629358155537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 362: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 362: unreachable code after return statement
+1629358198010	Marionette	INFO	Stopped listening on port 52431
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629358200201	geckodriver	INFO	Listening on 127.0.0.1:58780
+1629358203234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofilelESSmZ"
+1629358204164	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Partha\\AppData\\Local\\Temp\\rust_mozprofilelESSmZ\\search.json.mozlz4", (void 0)))
+1629358210720	Marionette	INFO	Listening on port 58788
+1629358210757	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 362: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-MHG4TN, line 362: unreachable code after return statement
+1629358239597	Marionette	INFO	Stopped listening on port 58788
+[Parent 1432, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

@@ -1,0 +1,530 @@
+2021-08-17 19:29:11,303 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-17 19:29:14,463 :INFO : test_validate_user_can_navigate_to_productPage : Coated & Bonded Abrasives | Belts, Disks & More is verified
+2021-08-17 19:29:49,476 :INFO : test_user_can_add_product_to_cart : you have opened the right page: Isopropyl
+2021-08-17 19:30:23,750 :INFO : test_select_all_brand_starts_with_A : Accu-Lite by O.C. White
+ACL Staticide
+AEI
+Aimco
+AkzoNobel
+ALICN
+All-Spec
+Allen
+Alpha
+American Fiber
+AmeriVacS
+AMMEX
+Amprobe
+AmTopp
+Ansell
+Apex
+APR
+Armstrong
+ASG
+Ash Technologies
+Asymtek
+Atrix
+Autosplice
+Aven
+Avery Dennison
+2021-08-18 12:00:13,097 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-18 12:00:16,479 :INFO : test_validate_user_can_navigate_to_productPage : Coated & Bonded Abrasives | Belts, Disks & More is verified
+2021-08-18 12:00:54,931 :INFO : test_user_can_add_product_to_cart : you have opened the right page: Isopropyl
+2021-08-18 12:01:30,398 :INFO : test_select_all_brand_starts_with_A : Accu-Lite by O.C. White
+ACL Staticide
+AEI
+Aimco
+AkzoNobel
+ALICN
+All-Spec
+Allen
+Alpha
+American Fiber
+AmeriVacS
+AMMEX
+Amprobe
+AmTopp
+Ansell
+Apex
+APR
+Armstrong
+ASG
+Ash Technologies
+Asymtek
+Atrix
+Autosplice
+Aven
+Avery Dennison
+2021-08-18 12:12:10,629 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-18 12:12:13,962 :INFO : test_validate_user_can_navigate_to_productPage : Coated & Bonded Abrasives | Belts, Disks & More is verified
+2021-08-18 12:13:23,096 :INFO : test_select_all_brand_starts_with_A : Accu-Lite by O.C. White
+ACL Staticide
+AEI
+Aimco
+AkzoNobel
+ALICN
+All-Spec
+Allen
+Alpha
+American Fiber
+AmeriVacS
+AMMEX
+Amprobe
+AmTopp
+Ansell
+Apex
+APR
+Armstrong
+ASG
+Ash Technologies
+Asymtek
+Atrix
+Autosplice
+Aven
+Avery Dennison
+2021-08-18 12:14:39,577 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-18 12:14:42,900 :INFO : test_validate_user_can_navigate_to_productPage : Coated & Bonded Abrasives | Belts, Disks & More is verified
+2021-08-18 12:15:54,247 :INFO : test_user_can_add_product_to_cart : you have opened the right page: Isopropyl
+2021-08-18 12:16:29,030 :INFO : test_select_all_brand_starts_with_A : Accu-Lite by O.C. White
+ACL Staticide
+AEI
+Aimco
+AkzoNobel
+ALICN
+All-Spec
+Allen
+Alpha
+American Fiber
+AmeriVacS
+AMMEX
+Amprobe
+AmTopp
+Ansell
+Apex
+APR
+Armstrong
+ASG
+Ash Technologies
+Asymtek
+Atrix
+Autosplice
+Aven
+Avery Dennison
+2021-08-18 12:18:41,820 :INFO : test_user_can_add_product_to_cart : you have opened the right page: Isopropyl
+2021-08-18 12:19:16,174 :INFO : test_select_all_brand_starts_with_A : Accu-Lite by O.C. White
+ACL Staticide
+AEI
+Aimco
+AkzoNobel
+ALICN
+All-Spec
+Allen
+Alpha
+American Fiber
+AmeriVacS
+AMMEX
+Amprobe
+AmTopp
+Ansell
+Apex
+APR
+Armstrong
+ASG
+Ash Technologies
+Asymtek
+Atrix
+Autosplice
+Aven
+Avery Dennison
+2021-08-18 12:21:24,863 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-18 12:21:28,053 :INFO : test_validate_user_can_navigate_to_productPage : Coated & Bonded Abrasives | Belts, Disks & More is verified
+2021-08-18 12:23:56,126 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-18 12:23:59,662 :INFO : test_validate_user_can_navigate_to_productPage : Coated & Bonded Abrasives | Belts, Disks & More is verified
+2021-08-18 12:24:45,629 :INFO : test_user_can_add_product_to_cart : you have opened the right page: Isopropyl
+2021-08-18 12:25:28,713 :INFO : test_select_all_brand_starts_with_A : Accu-Lite by O.C. White
+ACL Staticide
+AEI
+Aimco
+AkzoNobel
+ALICN
+All-Spec
+Allen
+Alpha
+American Fiber
+AmeriVacS
+AMMEX
+Amprobe
+AmTopp
+Ansell
+Apex
+APR
+Armstrong
+ASG
+Ash Technologies
+Asymtek
+Atrix
+Autosplice
+Aven
+Avery Dennison
+2021-08-18 12:32:40,728 :INFO : test_user_can_add_product_to_cart : you have opened the right page: Isopropyl
+2021-08-18 12:33:21,632 :INFO : test_select_all_brand_starts_with_A : Accu-Lite by O.C. White
+ACL Staticide
+AEI
+Aimco
+AkzoNobel
+ALICN
+All-Spec
+Allen
+Alpha
+American Fiber
+AmeriVacS
+AMMEX
+Amprobe
+AmTopp
+Ansell
+Apex
+APR
+Armstrong
+ASG
+Ash Technologies
+Asymtek
+Atrix
+Autosplice
+Aven
+Avery Dennison
+2021-08-18 12:34:41,868 :INFO : test_user_can_add_product_to_cart : you have opened the right page: Isopropyl
+2021-08-18 12:35:23,833 :INFO : test_select_all_brand_starts_with_A : Accu-Lite by O.C. White
+ACL Staticide
+AEI
+Aimco
+AkzoNobel
+ALICN
+All-Spec
+Allen
+Alpha
+American Fiber
+AmeriVacS
+AMMEX
+Amprobe
+AmTopp
+Ansell
+Apex
+APR
+Armstrong
+ASG
+Ash Technologies
+Asymtek
+Atrix
+Autosplice
+Aven
+Avery Dennison
+2021-08-18 12:36:26,555 :INFO : test_user_can_add_product_to_cart : you have opened the right page: Isopropyl
+2021-08-18 12:37:01,564 :INFO : test_select_all_brand_starts_with_A : Accu-Lite by O.C. White
+ACL Staticide
+AEI
+Aimco
+AkzoNobel
+ALICN
+All-Spec
+Allen
+Alpha
+American Fiber
+AmeriVacS
+AMMEX
+Amprobe
+AmTopp
+Ansell
+Apex
+APR
+Armstrong
+ASG
+Ash Technologies
+Asymtek
+Atrix
+Autosplice
+Aven
+Avery Dennison
+2021-08-18 12:38:01,106 :INFO : test_user_can_add_product_to_cart : you have opened the right page: Isopropyl
+2021-08-18 12:38:34,101 :INFO : test_select_all_brand_starts_with_A : Accu-Lite by O.C. White
+ACL Staticide
+AEI
+Aimco
+AkzoNobel
+ALICN
+All-Spec
+Allen
+Alpha
+American Fiber
+AmeriVacS
+AMMEX
+Amprobe
+AmTopp
+Ansell
+Apex
+APR
+Armstrong
+ASG
+Ash Technologies
+Asymtek
+Atrix
+Autosplice
+Aven
+Avery Dennison
+2021-08-18 12:56:21,087 :INFO : test_user_can_add_product_to_cart : you have opened the right page: Isopropyl
+2021-08-18 12:56:54,738 :INFO : test_select_all_brand_starts_with_A : Accu-Lite by O.C. White
+ACL Staticide
+AEI
+Aimco
+AkzoNobel
+ALICN
+All-Spec
+Allen
+Alpha
+American Fiber
+AmeriVacS
+AMMEX
+Amprobe
+AmTopp
+Ansell
+Apex
+APR
+Armstrong
+ASG
+Ash Technologies
+Asymtek
+Atrix
+Autosplice
+Aven
+Avery Dennison
+2021-08-18 12:59:38,021 :INFO : test_user_can_add_product_to_cart : you have opened the right page: Isopropyl
+2021-08-18 13:00:12,737 :INFO : test_select_all_brand_starts_with_A : Accu-Lite by O.C. White
+ACL Staticide
+AEI
+Aimco
+AkzoNobel
+ALICN
+All-Spec
+Allen
+Alpha
+American Fiber
+AmeriVacS
+AMMEX
+Amprobe
+AmTopp
+Ansell
+Apex
+APR
+Armstrong
+ASG
+Ash Technologies
+Asymtek
+Atrix
+Autosplice
+Aven
+Avery Dennison
+2021-08-18 13:34:10,825 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-18 13:34:14,152 :INFO : test_validate_user_can_navigate_to_productPage : Coated & Bonded Abrasives | Belts, Disks & More is verified
+2021-08-18 13:34:49,591 :INFO : test_user_can_add_product_to_cart : you have opened the right page: Isopropyl
+2021-08-18 13:35:24,692 :INFO : test_select_all_brand_starts_with_A : Accu-Lite by O.C. White
+ACL Staticide
+AEI
+Aimco
+AkzoNobel
+ALICN
+All-Spec
+Allen
+Alpha
+American Fiber
+AmeriVacS
+AMMEX
+Amprobe
+AmTopp
+Ansell
+Apex
+APR
+Armstrong
+ASG
+Ash Technologies
+Asymtek
+Atrix
+Autosplice
+Aven
+Avery Dennison
+2021-08-18 13:39:30,211 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-18 13:39:33,642 :INFO : test_validate_user_can_navigate_to_productPage : Coated & Bonded Abrasives | Belts, Disks & More is verified
+2021-08-18 13:40:43,592 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-18 13:40:46,946 :INFO : test_validate_user_can_navigate_to_productPage : Coated & Bonded Abrasives | Belts, Disks & More is verified
+2021-08-18 13:42:39,365 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-18 13:42:42,784 :INFO : test_validate_user_can_navigate_to_productPage : Coated & Bonded Abrasives | Belts, Disks & More is verified
+2021-08-18 13:46:18,541 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-18 13:46:22,431 :INFO : test_validate_user_can_navigate_to_productPage : Coated & Bonded Abrasives | Belts, Disks & More is verified
+2021-08-18 13:47:57,573 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-18 13:48:01,249 :INFO : test_validate_user_can_navigate_to_productPage : Coated & Bonded Abrasives | Belts, Disks & More is verified
+2021-08-18 13:49:34,722 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-18 13:49:38,206 :INFO : test_validate_user_can_navigate_to_productPage : Coated & Bonded Abrasives | Belts, Disks & More is verified
+2021-08-18 13:53:03,758 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-18 13:53:07,413 :INFO : test_validate_user_can_navigate_to_productPage : Coated & Bonded Abrasives | Belts, Disks & More is verified
+2021-08-18 19:10:45,446 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-18 19:13:06,378 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-18 19:19:52,530 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-18 19:19:55,733 :INFO : test_validate_user_can_navigate_to_productPage : Coated & Bonded Abrasives | Belts, Disks & More is verified
+2021-08-18 19:25:43,532 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-18 20:24:20,623 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-18 20:24:23,773 :INFO : test_validate_user_can_navigate_to_productPage : Coated & Bonded Abrasives | Belts, Disks & More is verified
+2021-08-18 20:25:36,421 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-18 20:25:39,552 :INFO : test_validate_user_can_navigate_to_productPage : Coated & Bonded Abrasives | Belts, Disks & More is verified
+2021-08-18 20:27:22,776 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-18 20:27:25,895 :INFO : test_validate_user_can_navigate_to_productPage : Coated & Bonded Abrasives | Belts, Disks & More is verified
+2021-08-18 20:28:43,233 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-18 20:28:46,432 :INFO : test_validate_user_can_navigate_to_productPage : Coated & Bonded Abrasives | Belts, Disks & More is verified
+2021-08-18 20:31:43,600 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-18 20:31:46,757 :INFO : test_validate_user_can_navigate_to_productPage : Coated & Bonded Abrasives | Belts, Disks & More is verified
+2021-08-18 20:40:06,471 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-18 20:40:09,633 :INFO : test_validate_user_can_navigate_to_productPage : Coated & Bonded Abrasives | Belts, Disks & More is verified
+2021-08-18 20:40:57,528 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-18 20:41:00,764 :INFO : test_validate_user_can_navigate_to_productPage : Coated & Bonded Abrasives | Belts, Disks & More is verified
+2021-08-18 20:42:13,378 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-18 20:42:16,531 :INFO : test_validate_user_can_navigate_to_productPage : Coated & Bonded Abrasives | Belts, Disks & More is verified
+2021-08-18 20:46:11,821 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-18 20:46:14,962 :INFO : test_validate_user_can_navigate_to_productPage : Coated & Bonded Abrasives | Belts, Disks & More is verified
+2021-08-18 20:47:26,230 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-18 20:47:29,393 :INFO : test_validate_user_can_navigate_to_productPage : Coated & Bonded Abrasives | Belts, Disks & More is verified
+2021-08-19 11:33:28,777 :INFO : test_user_can_add_product_to_cart : you have opened the right page: Isopropyl
+2021-08-19 11:34:03,701 :INFO : test_select_all_brand_starts_with_A : Accu-Lite by O.C. White
+ACL Staticide
+AEI
+Aimco
+AkzoNobel
+ALICN
+All-Spec
+Allen
+Alpha
+American Fiber
+AmeriVacS
+AMMEX
+Amprobe
+AmTopp
+Ansell
+Apex
+APR
+Armstrong
+ASG
+Ash Technologies
+Asymtek
+Atrix
+Autosplice
+Aven
+Avery Dennison
+2021-08-19 11:45:23,031 :INFO : test_user_can_add_product_to_cart : you have opened the right page: Isopropyl
+2021-08-19 11:46:10,831 :INFO : test_select_all_brand_starts_with_A : Accu-Lite by O.C. White
+ACL Staticide
+AEI
+Aimco
+AkzoNobel
+ALICN
+All-Spec
+Allen
+Alpha
+American Fiber
+AmeriVacS
+AMMEX
+Amprobe
+AmTopp
+Ansell
+Apex
+APR
+Armstrong
+ASG
+Ash Technologies
+Asymtek
+Atrix
+Autosplice
+Aven
+Avery Dennison
+2021-08-19 11:48:07,591 :INFO : test_user_can_add_product_to_cart : you have opened the right page: Isopropyl
+2021-08-19 11:48:49,367 :INFO : test_select_all_brand_starts_with_A : Accu-Lite by O.C. White
+ACL Staticide
+AEI
+Aimco
+AkzoNobel
+ALICN
+All-Spec
+Allen
+Alpha
+American Fiber
+AmeriVacS
+AMMEX
+Amprobe
+AmTopp
+Ansell
+Apex
+APR
+Armstrong
+ASG
+Ash Technologies
+Asymtek
+Atrix
+Autosplice
+Aven
+Avery Dennison
+2021-08-19 12:59:49,636 :INFO : test_user_can_add_product_to_cart : you have opened the right page: Isopropyl
+2021-08-19 13:00:36,312 :INFO : test_select_all_brand_starts_with_A : Accu-Lite by O.C. White
+ACL Staticide
+AEI
+Aimco
+AkzoNobel
+ALICN
+All-Spec
+Allen
+Alpha
+American Fiber
+AmeriVacS
+AMMEX
+Amprobe
+AmTopp
+Ansell
+Apex
+APR
+Armstrong
+ASG
+Ash Technologies
+Asymtek
+Atrix
+Autosplice
+Aven
+Avery Dennison
+2021-08-19 13:32:58,676 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-19 13:33:02,232 :INFO : test_validate_user_can_navigate_to_productPage : Coated & Bonded Abrasives | Belts, Disks & More is verified
+2021-08-19 13:33:46,290 :INFO : test_user_can_add_product_to_cart : you have opened the right page: Isopropyl
+2021-08-19 13:34:27,772 :INFO : test_select_all_brand_starts_with_A : Accu-Lite by O.C. White
+ACL Staticide
+AEI
+Aimco
+AkzoNobel
+ALICN
+All-Spec
+Allen
+Alpha
+American Fiber
+AmeriVacS
+AMMEX
+Amprobe
+AmTopp
+Ansell
+Apex
+APR
+Armstrong
+ASG
+Ash Technologies
+Asymtek
+Atrix
+Autosplice
+Aven
+Avery Dennison
+2021-08-19 13:48:18,092 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-19 13:54:09,328 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-19 13:58:00,870 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-19 14:06:37,036 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on partha
+2021-08-21 13:15:00,746 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-21 13:15:03,929 :INFO : test_validate_user_can_navigate_to_productPage : Coated & Bonded Abrasives | Belts, Disks & More is verified
+2021-08-21 13:26:24,808 :INFO : test_validate_user_can_navigate_to_productPage : user clicks on Abrasives
+2021-08-21 13:26:27,977 :INFO : test_validate_user_can_navigate_to_productPage : Coated & Bonded Abrasives | Belts, Disks & More is verified

@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Test Passed",
+    "matchedStatuses": ["passed"]
+  },
+
+  {
+    "name": "Test defects",
+    "matchedStatuses": ["failed"]
+  }
+]
